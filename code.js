@@ -99,8 +99,7 @@ edges= createEdgeSprites()
 ball.bounceOff(paddle)
 ball.bounceOff(topEdge)
 ball.bounceOff(leftEdge)
-ball.setAnimation("ball1");
-ball.scale=0.08
+
 
 ball.bounceOff(rightEdge)
 
